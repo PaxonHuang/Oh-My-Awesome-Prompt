@@ -1,4 +1,8 @@
-# VibeCoding高频提示词
+# 反claude署名
+
+```Plain
+如何在用claudecode git commit push后让github 提交记录不要出现claude署名？我已经不小心让Claude已经连续产生了带署名的是十多条提交，如何进行修改彻底删除Claude署名，且保留这十多条提交。顺便问一句，多次 commit 的时间戳如何进行批量修改？我的项目为https://github.com/PaxonHuang/EchoGlove-SLR-MOCAP-Beta/commits/
+```
 
 # /new /clear接力
 
@@ -8,7 +12,7 @@
 由于当前会话上下文context过大，我要在/clear /new 新建会话之前，请你使用 remember memory  graphify等工具记住刚刚或过去会话我们所做的事情，记忆要取其精华去其糟粕，记住核心要点信息，以便于在我执行/clear /new 新建会话后，能继续接力现在正在做或未完成的任务。
 ```
 
-#  **最后将所有输出核心文档 资产文件 压缩打包发给我**
+# **最后将所有输出核心文档 资产文件 压缩打包发给我**
 
 # 继续完成上述被意外中断的任务 ，如果遇到问题请停下来让我决策审阅。根据SOP Spec plan，.现在项目处于什么进度？建议下一步做什么？
 
@@ -787,3 +791,7 @@ notebooklm生成理工科学术科普ppt（计算机、电子信息、人工智�
 ```
 
 [claude](https://www.php.cn/zt/20983.html) code 的强大功能很大程度上取决于如何与它有效沟通。本文汇总了各种开发场景下的高效提示词模板，帮助开发者快速掌握 claude code 的使用技巧。
+
+# 高频工程提示词通用话术
+
+https://dwkmrfbfkko.feishu.cn/sync/MNHNdrdxPsJUx4bI4ZicP91Bn4g
